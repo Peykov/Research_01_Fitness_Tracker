@@ -1,3 +1,3 @@
-## Data Science Project Template
-
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+# Research_01_Fitness_Tracker
+Classification model for tracking fitness exercises
+>>>>>>> origin/main
